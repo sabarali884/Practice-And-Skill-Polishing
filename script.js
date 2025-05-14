@@ -42,7 +42,7 @@ console.log(c);
 
 /*Assignment Operators*/
 
-var num = 10;
+/*var num = 10;
 num += 5;
 num -= 5;
 num *= 2;
