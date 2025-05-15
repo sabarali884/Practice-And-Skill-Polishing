@@ -191,9 +191,9 @@ else{
     console.log("Invalid Input")
 }*/
 
-/*Write A Program That Take Usrt Input 1, 2, 3, 4, 5, 6, 7 And Print The Day Of The Week*/
+/*Write A Program That Take User Input 1, 2, 3, 4, 5, 6, 7 And Print The Day Of The Week*/
 
-var userInput = prompt ("Enter A Number Between 1 To 7");
+/*var userInput = prompt ("Enter A Number Between 1 To 7");
 switch(userInput){
     case '1':
         console.log("Monday")
@@ -218,4 +218,16 @@ switch(userInput){
         break;
     default:
         console.log("Invalid Input")
-}
+}*/
+
+/*Write A Program That Take User Input And Check If Even Number If So Add 20 In Thar Number And Show The Console */
+
+/*var userInput = prompt ("Enter A Number");
+console.log(typeof userInput);
+if(userInput % 2 == 0){
+    var result = parseInt(userInput) + 20;
+    console.log(result)
+}*/
+
+/*Write A Program That Take User Input And Check If Even Number And If Number Is More Than 50 Add 10 In That Number Otherwise Show Only Number Is Even */
+
